@@ -1,0 +1,6 @@
+framework module Pods_EMGWAY {
+  umbrella header "Pods-EMGWAY-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -20,6 +20,24 @@
 				</dict>
 			</array>
 		</dict>
+		
 	</dict>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Get user location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Get user location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Get user location</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>location</string>
+	</array>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Ứng dụng cần truy cập vị trí để theo dõi di chuyển.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
 </dict>
 </plist>
